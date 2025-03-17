@@ -11,7 +11,7 @@
 
 ## Week three reflection
 (17/3/25)
-<p>How do you feel about coding now versus how you felt going into this in Week 1?
-  I'm definitely gaining confidence as I'm learning. This is a whole new language, and my brain is more receptive to that type of learning as I've been learning Finnish for the past nearly two years. There's some plasticity there, and that is helping in the ase of learning coding. I'm looking forward to seeing these skills grow and improve over time.
+How do you feel about coding now versus how you felt going into this in Week 1?
+<p>I'm definitely gaining confidence as I'm learning. This is a whole new language, and my brain is more receptive to that type of learning as I've been learning Finnish for the past nearly two years. There's some plasticity there, and that is helping in the ase of learning coding. I'm looking forward to seeing these skills grow and improve over time.</p>
 Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
-I am definitely seeing more possibilities, especially with how a work looks, not just how it reads. Being a screenwriter, I'm used to working with a team to create a vision, but for something like this, I'm by myself. I don't consider myself to have much in the way of artistic skills, but coding at least offers a portal into which I can more easily transfer the image I have in my head onto a screen.</p>
+<p>I am definitely seeing more possibilities, especially with how a work looks, not just how it reads. Being a screenwriter, I'm used to working with a team to create a vision, but for something like this, I'm by myself. I don't consider myself to have much in the way of artistic skills, but coding at least offers a portal into which I can more easily transfer the image I have in my head onto a screen.</p>
