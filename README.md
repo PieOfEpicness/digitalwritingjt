@@ -23,3 +23,19 @@ What aspects of the remix are the same?
 What aspects of the remix are different?
 <p></p>
 Is the remix successful (why or why not)?
+
+
+## Week five reflection
+(2/4/25)
+
+What is emerging for you in terms of your own piece toward Assessment 2 and 3?
+The concept and story is already flowing pretty freely in my head, and I look forward to writing it all down. I can already see how it looks in my head, how someone will read it, navigate it, experience it.
+
+What platform and technology does it require?
+I think it'll just use basic html, there'll be nothing fancy, just how paragraphs are shaped.
+
+Do you know already if you can make it?
+I certainly believe in myself that I can make it.
+
+What else do you need to learn in order to execute your vision for this piece?
+More html!!!
